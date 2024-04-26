@@ -1,0 +1,21 @@
+Customer ID,Product Purchased ,Transaction Timestamp,Order Value,Genre,Format,Payment Method,Quantity Purchased
+12345,The Lord of the Rings (J.R.R. Tolkien),4/20/2024,$25.99 ,Fantasy,Paperback,Credit Card,1
+12345,To Kill a Mockingbird (Harper Lee),4/20/2024,$14.99 ,Classic,Hardcover,Debit Card,2
+54321,Pride and Prejudice (Jane Austen),4/23/2024,$9.99 ,Romance,eBook,Debit Card,1
+76543,The Martian (Andy Weir),4/24/2024,$12.50 ,Science Fiction,Paperback,Gift Card,1
+76543,Project Hail Mary (Andy Weir),4/24/2024,$17.99 ,Science Fiction,Hardcover,Credit Card,1
+12345,The Hobbit (J.R.R. Tolkien),4/25/2024,$22.50 ,Fantasy,eBook,Credit Card,1
+54321,Frankenstein (Mary Shelley),4/21/2024,$11.99 ,Gothic,Paperback,Debit Card,1
+37215,Dune (Frank Herbert),4/18/2024,$19.99 ,Science Fiction,Hardcover,Credit Card,1
+37215,A Confederacy of Dunces (John Kennedy Toole),4/18/2024,$14.50 ,Humor,Paperback,Credit Card,1
+98765,Persuasion (Jane Austen),4/22/2024,$8.99 ,Romance,eBook,Gift Card,1
+12547,Man at sea ( lisa stacy),4/18/2024,$18.09 ,Fantasy,Hardcover,Credit Card,1
+65789,power of money (robert greene),4/24/2024,$23.40 ,Classic,eBook,Debit Card,1
+45785,the last of us ( luke wine),4/8/2024,$10.56 ,Romance,Paperback,Debit Card,1
+23875,minds of money( robert greene),4/26/2024,$12.54 ,Science Fiction,Hardcover,Gift Card,2
+43578,romeo and juliet( william shakespere),4/15/2024,$65.65 ,Science Fiction,Paperback,Credit Card,1
+67890,trinity (louis costa),4/9/2024,$12.45 ,Fantasy,eBook,Debit Card,1
+98065,aliens and sea (frank ocean),5/6/2024,$5.99 ,Gothic,Paperback,Debit Card,1
+43567,revenge in the valley (vanessa lopez),4/9/2024,$5.97 ,Science Fiction,eBook,Credit Card,1
+,,,,,,,1
+,,,,,,,2

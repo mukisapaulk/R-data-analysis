@@ -1,0 +1,40 @@
+Customer ID,Name,Age,Gender,Income Level,City,State
+10245,John Smith,32,Male,"$75,000+",Springfield,CA
+38712,Jane Doe,28,Female,"$50,000 - $75,000",Austin,TX
+54987,Alex Lee,45,Male,"$100,000+",Seattle,WA
+10923,Sarah Jones,24,Female,"$35,000 - $50,000",Denver,CO
+76321,Michael Brown,62,Male,"$60,000 - $75,000",Chicago,IL
+91548,Emily Garcia,38,Female,"$80,000 - $100,000",Miami,FL
+40345,David Hernandez,19,Male,"Under $35,000",New York,NY
+23789,Olivia Miller,55,Female,"$75,000+",Los Angeles,CA
+45126,William Johnson,42,Male,"$50,000 - $75,000",Houston,TX
+67359,Elizabeth Williams,21,Female,"Under $35,000",Phoenix,AZ
+59801,Charles Taylor,35,Male,"$50,000 - $75,000",Portland,OR
+89572,Amanda White,26,Female,"$35,000 - $50,000",Dallas,TX
+12745,Robert Davis,48,Male,"$100,000+",San Francisco,CA
+20934,Katherine Thomas,22,Female,"Under $35,000",Atlanta,GA
+34918,Daniel Garcia,50,Male,"$75,000+",Washington D.C.,DC
+56140,Victoria Hernandez,30,Female,"$50,000 - $75,000",Minneapolis,MN
+19034,Christopher Allen,18,Male,"Under $35,000",Charlotte,NC
+78362,Isabella Lopez,41,Female,"$80,000 - $100,000",San Jose,CA
+90584,Andrew Moore,60,Male,"$60,000 - $75,000",Detroit,MI
+34256,Sophia Wilson,23,Female,"Under $35,000",Philadelphia,PA
+12345,Joseph King,37,Male,"$75,000+",Jacksonville,FL
+12345,Evelyn Young,29,Female,"$50,000 - $75,000",Columbus,OH
+54321,Benjamin Lewis,43,Male,"$100,000+",San Antonio,TX
+76543,Charlotte Clark,58,Female,"$60,000 - $75,000",Baltimore,MD
+76543,Noah Gonzalez,20,Male,"Under $35,000",Indianapolis,IN
+12345,Ashley Moore,31,Female,"$50,000 - $75,000",Phoenix,AZ
+54321,Daniel Robinson,44,Male,"$80,000 - $100,000",Memphis,TN
+37215,Matthew Garcia,27,Male,"$35,000 - $50,000",Denver,CO
+37215,Abigail Johnson,34,Female,"$75,000+",Seattle,WA
+98765,William Miller,17,Male,"Under $35,000",Houston,TX
+12547,Elizabeth Brown,47,Female,"$50,000 - $75,000",Chicago,IL
+65789,Christopher Thomas,25,Male,"Under $35,000",Miami,FL
+45785,Sophia Hernandez,39,Female,"$80,000 - $100,000",Los Angeles,CA
+23875,David Williams,52,Male,"$60,000 - $75,000",New York,NY
+43578,Olivia Moore,18,Female,"Under $35,000",Phoenix,AZ
+67890,Daniel Lewis,40,Male,"$75,000+",San Francisco,CA
+98065,Emily Garcia,29,Female,"$50,000 - $75,000",Dallas,TX
+43567,Benjamin Walker,61,Male,"$60,000 - $75,000",Atlanta,GA
+12300,emily walker,56,female,"$75,000+",New York,NY
