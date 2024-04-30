@@ -1,0 +1,30 @@
+SKU,Product Name,Author,Category,Unit Price,Stock Level
+FANTASY-789,The Hobbit,J.R.R. Tolkien,Fantasy,$22.50,15
+CLASSICS-456,Pride and Prejudice,Jane Austen,Romance,$9.99,20
+SCI-FI-123,Project Hail Mary,Andy Weir,Science Fiction,$17.99,10
+MYSTERY-333,And Then There Were None,Agatha Christie,Mystery,$11.99,8
+HISTORY-222,A Short History of Nearly Everything,Bill Bryson,History,$14.50,12
+CHILDREN-222,Where the Mountain Meets the Moon,Grace Lin,Children's,$16.99,5
+COOKING-987,The Joy of Cooking,Irma S. Rombauer & Marion Rombauer Becker,Cooking,$29.95,7
+SELF-HELP-333,The Power of Positive Thinking,Norman Vincent Peale,Self-Help,$12.99,3
+ART-001,The Artist's Way,Julia Cameron,Art,$24.50,4
+YOUNG-ADULT-890,They Both Die at the End,Adam Silvera,Young Adult,$15.99,9
+TRAVEL-444,Lonely Planet's Italy,Various Authors,Travel,$19.99,6
+BIOGRAPHY-777,Leonardo da Vinci,Walter Isaacson,Biography,$21.50,2
+COOKING-555,The Essential Instant Pot Cookbook,Coco Morante,Cooking,$18.99,11
+MYSTERY-222,Murder on the Orient Express (Special Edition),Agatha Christie,Mystery,$13.99,5
+FANTASY-987,A Game of Thrones,George R.R. Martin,Fantasy,$19.95,8
+BIOGRAPHY-111,Life on Mars,Robert Zubrin,Biography,$19.99,67
+SCI-FI-456,The Martian Chronicles,Ray Bradbury,Science Fiction,$15.99,34
+CHILDREN-111,Where the Mountain Meets the Moon,Grace Lin,Children's,$16.99,23
+COOKING-111,The Joy of Cooking,Irma S. Rombauer & Marion Rombauer Becker,Cooking,$29.95,5
+MYSTERY-444,And Then There Were None,Agatha Christie,Mystery,$11.99,87
+FANTASY-789,The Hobbit,J.R.R. Tolkien,Fantasy,$22.50,98
+SELF-HELP-222,The Power of Positive Thinking,Norman Vincent Peale,Self-Help,$12.99,9
+CLASSICS-123,Pride and Prejudice,Jane Austen,Romance,$9.99,54
+HISTORY-222,A Short History of Nearly Everything,Bill Bryson,History,$14.50,122
+TRAVEL-555,Lonely Planet's Italy,Various Authors,Travel,$19.99,1
+ART-111,The Artist's Way,Julia Cameron,Art,$24.50,3
+YOUNG-ADULT-999,They Both Die at the End,Adam Silvera,Young Adult,$15.99,21
+SCI-FI-456,The Martian Chronicles,Ray Bradbury,Science Fiction,$15.99,5
+BIOGRAPHY-222,Leonardo da Vinci,Walter Isaacson,Biography,$21.50,1

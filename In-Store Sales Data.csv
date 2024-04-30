@@ -1,0 +1,21 @@
+Customer ID,Product Purchased,Transaction Timestamp,Store Location,Payment Method,Quantity Purchased,Format,Genre
+10245,Life on Mars (Robert Zubrin),4/26/2024,University District,Credit Card,1,Hardcover,Fantasy
+38712,The Martian Chronicles (Ray Bradbury),4/25/2024,Main Street,Debit Card,2,Hardcover,Classic
+54987,Where the Mountain Meets the Moon (Grace Lin),4/24/2024,Suburbs,Cash,1,Hardcover,Romance
+10923,The Joy of Cooking (Irma S. Rombauer & Marion Rombauer Becker),4/24/2024,Downtown,Gift Card,1,Hardcover,Science Fiction
+76321,And Then There Were None (Agatha Christie),4/23/2024,University District,Credit Card,1,Hardcover,Science Fiction
+91548,The Hobbit (J.R.R. Tolkien),4/22/2024,Main Street,Cash,1,Hardcover,Fantasy
+40345,The Power of Positive Thinking (Norman Vincent Peale),4/22/2024,Suburbs,Debit Card,1,Hardcover,Gothic
+23789,Pride and Prejudice (Jane Austen),4/21/2024,University District,Credit Card,1,Hardcover,Science Fiction
+45126,A Short History of Nearly Everything (Bill Bryson),4/20/2024,Main Street,Cash,1,Hardcover,Humor
+67359,Lonely Planet's Italy (Various Authors),4/20/2024,Downtown,Gift Card,1,Hardcover,Romance
+59801,The Artist's Way (Julia Cameron),4/19/2024,University District,Credit Card,1,Hardcover,Fantasy
+89572,They Both Die at the End (Adam Silvera),4/18/2024,Suburbs,Debit Card,1,Hardcover,Classic
+12745,The Martian Chronicles (Ray Bradbur),4/18/2024,Main Street,Cash,1,Hardcover,Romance
+20934,Leonardo da Vinci (Walter Isaacson),4/17/2024,Downtown,Gift Card,2,Hardcover,Science Fiction
+34918,Pride and Prejudice (Jane Austen),4/16/2024,University District,Credit Card,1,Hardcover,Science Fiction
+56140,The Essential Instant Pot Cookbook (Coco Morante),4/15/2024,Main Street,Debit Card,1,Hardcover,Fantasy
+19034,Murder on the Orient Express (Agatha Christie),4/14/2024,Suburbs,Cash,1,Hardcover,Gothic
+78362,A Game of Thrones (George R.R. Martin),4/13/2024,University District,Credit Card,1,Hardcover,Science Fiction
+90584,"Guns, Germs, and Steel (Jared Diamond)",4/12/2024,Main Street,Gift Card,1,Hardcover,Science Fiction
+34256,Lonely Planet's Japan (Various Authors),4/11/2024,Downtown,Debit Card,2,Hardcover,Science Fiction
